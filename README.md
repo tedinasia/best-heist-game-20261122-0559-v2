@@ -1,8 +1,8 @@
 # Arsip Abyssal
 
-![badge](https://make.fun/badge/best-heist-game-20261122-0559.svg)
-![rank](https://make.fun/badge/best-heist-game-20261122-0559/tedinasia/best-heist-game-20261122-0559-v2/rank.svg)
-![reward](https://make.fun/badge/best-heist-game-20261122-0559/tedinasia/best-heist-game-20261122-0559-v2/reward.svg)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/tedinasia/best-heist-game-20261122-0559-v2/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/tedinasia/best-heist-game-20261122-0559-v2/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 Game heist stealth top-down di arsip laut dalam yang bioluminescent. Kamu seorang
 penyelam pencuri yang menyusup ke Arsip Abyssal untuk mencuri **Mutiara Abyssal** —
